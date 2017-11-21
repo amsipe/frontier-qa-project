@@ -1,6 +1,4 @@
 var expect = require('chai').expect;
-var fetch = require('node-fetch');
-
 
 describe('valid links', () => {
 
